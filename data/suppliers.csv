@@ -1,0 +1,16 @@
+supplier_id,name,country,lead_time_days,created_at
+1,오창동선(주),KR,5,2016-02-01
+2,한결마그네틱,KR,7,2017-03-01
+3,세진정밀,KR,5,2018-04-01
+4,미래하우징,KR,6,2019-05-01
+5,청원PCB,KR,7,2020-06-01
+6,동일커넥트,KR,4,2021-07-01
+7,성원화학,KR,5,2022-08-01
+8,우진테크,KR,6,2015-09-01
+9,금강부품,KR,3,2016-10-01
+10,한성패키징,KR,3,2017-11-01
+11,Shenzhen Hongda Electronics,CN,21,2018-12-01
+12,Ningbo Magtech,CN,18,2019-01-01
+13,Taipei Semicon Supply,TW,14,2020-02-01
+14,Osaka Precision Parts,JP,10,2021-03-01
+15,Hanoi Component,VN,16,2022-04-01
